@@ -6,7 +6,8 @@ button.pack(pady = 20, padx = 20)
 
 # schijf hier tussen je code
 
-
+button.config(text = "Switch light on")
+window.configure(bg="black")
 
 # schijf hier tussen je code
 
